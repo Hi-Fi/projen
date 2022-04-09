@@ -5,9 +5,9 @@
     "config:base",
     "group:allNonMajor",
     "group:recommended",
-    "group:monorepos",
+    "group:monorepos"
   ],
   "ignoreDeps": [
     "projen"
-  ],
+  ]
 }
