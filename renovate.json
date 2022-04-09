@@ -7,7 +7,7 @@
     "group:recommended",
     "group:monorepos",
   ],
-  "ignoreDeps": Array [
+  "ignoreDeps": [
     "projen",
   ],
 }
